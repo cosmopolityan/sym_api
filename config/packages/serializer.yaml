@@ -1,0 +1,4 @@
+# config/packages/serializer.yaml
+framework:
+    serializer:
+        enable_annotations: true
